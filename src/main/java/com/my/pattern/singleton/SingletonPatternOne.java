@@ -1,4 +1,4 @@
-package DesignPattern;
+package com.my.pattern.singleton;
 
 /**
  * 饿汉: 线程安全，不管用没用到都会实例化.空间换时间

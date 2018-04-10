@@ -1,4 +1,4 @@
-package FactoryPattern.FactoryMethod;
+package com.my.pattern.factory.fatoryMethod;
 /**
  * 具体的product实现
  */

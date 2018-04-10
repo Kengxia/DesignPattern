@@ -1,4 +1,4 @@
-package FactoryPattern.FactoryMethod;
+package com.my.pattern.factory.fatoryMethod;
 
 /**
  * 导出pdf的操作

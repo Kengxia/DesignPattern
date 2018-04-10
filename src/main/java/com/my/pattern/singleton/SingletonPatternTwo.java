@@ -1,4 +1,4 @@
-package DesignPattern;
+package com.my.pattern.singleton;
 
 /**
  * 懒汉:体现了延迟加载、缓存的思想，但是是非线程安全的

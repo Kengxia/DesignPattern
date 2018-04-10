@@ -1,4 +1,4 @@
-package DesignPattern;
+package com.my.pattern.singleton;
 
 /**
  * 线程安全的 懒汉模式，双重校验

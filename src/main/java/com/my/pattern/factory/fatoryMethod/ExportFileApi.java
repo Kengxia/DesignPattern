@@ -1,4 +1,4 @@
-package FactoryPattern.FactoryMethod;
+package com.my.pattern.factory.fatoryMethod;
 
 /**
  * 导出文件的api接口  product 角色

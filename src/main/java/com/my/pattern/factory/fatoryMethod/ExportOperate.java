@@ -1,4 +1,4 @@
-package FactoryPattern.FactoryMethod;
+package com.my.pattern.factory.fatoryMethod;
 
 /**
  * 实现导出数据的业务功能对象
